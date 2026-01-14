@@ -11,7 +11,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vincentcapek&show_icons=true&locale=en" alt="zaominez" /></p>
 
-<p align="left"> <a href="https://twitter.com/devblams" target="blank"><img src="https://img.shields.io/twitter/follow/devblams?logo=twitter&style=for-the-badge" alt="devblams" /></a> </p>
+<p align="left"> <a href="https://twitter.com/vincentdevb" target="blank"><img src="https://img.shields.io/twitter/follow/vincentdevb?logo=twitter&style=for-the-badge" alt="vincentdevb" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
