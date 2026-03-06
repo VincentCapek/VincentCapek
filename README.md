@@ -7,10 +7,6 @@
  
 <p align="center">What you’ll find here: Personal projects and tools I’ve built. Contributions to open-source projects. Code samples showcasing my approach to development. Let’s build something amazing together! ✨</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vincentcapek&show_icons=true&locale=en&layout=compact" alt="zaominez" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vincentcapek&show_icons=true&locale=en" alt="zaominez" /></p>
-
 <p align="left"> <a href="https://twitter.com/vincentdevb" target="blank"><img src="https://img.shields.io/twitter/follow/vincentdevb?logo=twitter&style=for-the-badge" alt="vincentdevb" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
